@@ -1,4 +1,4 @@
-# # Odin Recipes Project
+#  Odin Recipes Project
 
 ## Overview
 This project is a multi-page HTML website built as part of The Odin Project foundations course. It features a main index homepage that links out to several individual recipe pages, with navigation links connecting them all together.
